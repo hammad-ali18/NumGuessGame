@@ -1,0 +1,4 @@
+to install inquirer
+>>npm i inquirer
+for intalling types of inquirer in dev dependencies
+>>npm i @types/inquirer -D 
